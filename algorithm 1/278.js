@@ -1,3 +1,4 @@
+// binary search
 var solution = (isBadVersion) => {
     return (n) => {
         var left = 0
