@@ -1,3 +1,4 @@
+// binary search
 var search = function(nums, target) {
     var left = 0;
     var rigth = nums.length-1;
